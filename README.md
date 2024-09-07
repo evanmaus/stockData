@@ -5,7 +5,9 @@ This project is a Python-based tool for fetching, analyzing, and visualizing sto
 ## Features
 
 - **Stock Data Fetching**: Retrieves historical stock prices, financials, float shares, and sector data.
+  ![Stock Data Fetching](stockData2.gif)
 - **Comprehensive Visualization**: Candlestick charts, volume, EPS, revenue, and sector comparisons.
+   ![Comprehensive Visualization](stockData1.gif)
 - **Error Handling**: Graceful fallback for missing financial or sector data.
 - **Sector Comparison**: Compare stock performance against its sector index.
 
