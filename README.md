@@ -24,5 +24,5 @@ This project is a Python-based tool for fetching, analyzing, and visualizing sto
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/stock-data-analysis.git
+   git clone https://github.com/evanmaus/stock-data-analysis.git
    cd stock-data-analysis
